@@ -6,7 +6,7 @@
 }
 body{
     font-family: 'Inter', sans-serif;
-    background-image: url('../images/bg.jpg');
+    background-image: url('../images/bg.png');
     background-size: cover;
     background-repeat: no-repeat;
     
@@ -81,6 +81,11 @@ a{
     color: white;
     background-color: #3464e8;
     border-color: #3464e8;
+}
+
+.cta-btn-phone{
+    color: #374151;
+    border-color: #D1D5DB;
 }
 .about, .interests{
     margin-top: 30px;
