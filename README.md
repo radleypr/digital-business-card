@@ -1,4 +1,4 @@
-# Digital business card <sub><sup>(Scrimba React Course Project 2)</sup></sub>
+# Digital business card
 
  Requirements
 - Build from scratch!
@@ -8,4 +8,4 @@
     - About
     - Interests
 
-<img src="src/images/project-thumbnail.png" width="80%"/>
+demo : renoadley.netlify.app
